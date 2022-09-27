@@ -1,0 +1,11 @@
+canvas{
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+main {
+  position: absolute;
+}
+
+/* position dom elements with GRID to orient them in a specific way in relation to the animation */
